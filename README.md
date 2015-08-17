@@ -1,1 +1,1 @@
-# Backbone 
+# Developing Backbone.js Application
